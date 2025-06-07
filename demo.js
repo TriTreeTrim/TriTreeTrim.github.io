@@ -1,1 +1,1 @@
-document.write("Last modified: " + document.lastModified)
+document.write("Last modified: ")
