@@ -1,0 +1,50 @@
+h1 {
+  font-size: 66px;
+  color: blue;
+  border-style: solid;
+  /* IMPT: border-style FIRST, otherwise border not working*/
+  border-width: 2px;
+  border-color: black;
+}
+
+h2 {
+  font-size: 54px;
+  color: blue;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: green;
+}
+
+h3 {
+  font-size: 42px;
+  color: blue;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: green;
+}
+
+h4 {
+  font-size: 30px;
+  color: blue;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: green;
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  font-size: 18px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
