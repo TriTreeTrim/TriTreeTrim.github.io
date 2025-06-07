@@ -2,6 +2,7 @@ h1 {
   font-size: 48px;
   color: blue;
   border-style: solid;
+  /* IMPT: border-style FIRST, otherwise border not working*/
   border-width: 2px;
   border-color: black;
 }
